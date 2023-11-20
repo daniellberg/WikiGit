@@ -4,7 +4,7 @@ import { InputContainer } from './styles';
 function CustomInput({value, onChange}) {
   return (
     <InputContainer>
-      <input value={value} onChange={onChange}/>
+      <input value={value} onChange={onChange} placeholder="user/repo-name"/>
     </InputContainer>
   );
 }

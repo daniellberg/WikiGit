@@ -5,14 +5,14 @@ export const InputContainer = styled.div`
     border-radius: 20px;
 
     height: 62px;
-    width: 80%;
+    width: 60%;
 
     margin: 20px;
 
     input {
         background: transparent;
         border: 0;
-        width: 97.5%;
+        width: 100%;
         height: 62px;
         padding: 0 20px;
         color: #ffffff;
